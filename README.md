@@ -1,4 +1,4 @@
-# RISC-V 5-stage Single Cycle Core
+# RISC-V Single Cycle Core
 ### Designed by Muhammad Hadir Khan
 \
 \
